@@ -4,12 +4,12 @@
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>我的作业本</title>
+    <title>诸佳杰的作业本</title>
     <!-- Bootstrap -->
 	  <link href="css/bootstrap.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/style.css">
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 	<script src="js/jquery-1.11.3.min.js"></script>
 
 	<!-- Include all compiled plugins (below), or include individual files as needed --> 
@@ -24,10 +24,11 @@
   <body>
   <header class="header">
 	<div class="nav">
-		<div class="nav-title">
+		<div class="nav-title" style="display: block">
 			<i class="icon-file-alt" style="margin: 0px;font-size: 24px"></i>
-			<p class="h1" id="er">我的作业本</p>
-			</div>
+			<p class="h1" id="er">作业本</p>
+		</div>
+		<a href="javascript:alert('还没做完!');"><div class="nav-link">个人主页</div></a>
 	</div>
 	<div class="clover"></div>
 	<div class="welcome">
@@ -51,7 +52,7 @@
                 <tr>
               <td>第一周</td>        
               <td>&nbsp;</td>
-               <td>&nbsp;</td>
+               <td><a href="pages/1-2/1">1</a>　<a href="pages/1-2/2">2</a>　<a href="pages/1-2/3">3</a></td>
             </tr>        
             <tr>
                 <td>第二周</td>         
@@ -146,8 +147,16 @@
 		</div>
 	</section>
 	
-	<footer>
-		
+	<footer style="text-align: right;">
+	<div style="margin-bottom: 10px;margin-right: 8em;">
+	<a href="https://github.com/GEEKiDoS" title="我的Github">
+	<i class="icon-github" style="font-size: 2em;"></i>
+	</a>
+	<a href="mailto:geek_ds@foxmail.com" title="给我发邮件">
+	<i class="icon-pencil" style="font-size: 2em;margin-left: 1em"></i>
+	</a>
+	</div>
+	<p style="text-align: right;color:#707070">Copyright © 2017 诸佳杰(GEEKiDoS) 版权所有</p>
 	</footer>
   </body>
 </html>
