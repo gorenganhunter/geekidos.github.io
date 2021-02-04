@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "prepare": "tsc --outDir scripts src/app_main.ts",
+        "clean": "rd /S /Q scripts"
+    }
+}
