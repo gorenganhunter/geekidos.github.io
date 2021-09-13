@@ -205,7 +205,7 @@
       "url": "_framework\/D4DJ.Types.dll"
     },
     {
-      "hash": "sha256-u+Dy5diJHK1kvnw7TGRVfrTzlIn0LyPCkirt9z2th3o=",
+      "hash": "sha256-8F3g1oF3Lz+TEO5C8LWXqiT3zh3kAHO6rion5N0yBFU=",
       "url": "_framework\/SonicAudioLib.dll"
     },
     {
@@ -213,7 +213,7 @@
       "url": "_framework\/VGAudio.dll"
     },
     {
-      "hash": "sha256-f243wffAmW0BgJbHT+ChAnqpjeu0jAtIvEnu\/+Z43zk=",
+      "hash": "sha256-LFms8PB4effJsmAYN9ZTcGk3Je8Iu61O1RR96\/nNtoA=",
       "url": "_framework\/D4DJ-ChartOneKey.dll"
     },
     {
@@ -381,7 +381,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-K0W\/HeD4RlYpZR5QWKSMl1ML4oSmfjMA3Lxxv1vx4IY=",
+      "hash": "sha256-NgJnjIc6UG3ZJ3q1rfveSRKQjAJCnLfwfqDDtl+z+lo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -389,5 +389,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "PoGFqLLr"
+  "version": "R44s5Y3D"
 };
